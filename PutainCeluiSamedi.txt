@@ -1,3 +1,35 @@
+
+ PArt part :: part 1..
+///////
+Ca doit marchez commme, MAis J dois commercee
+par le develoment Bff Kong With all ubuntu,,
+All Local App clinet..
+Docker Compose...Yml,. nO Vps  No remote  Terrforma,,,
+D Abord j ccommence PAr Local..:: App all, tous les Functionnalitee,,Local Development::
+
+
+Tets, tou ces Comnnneries,, Plutard..:::
+
+merde j Ai Besoin Argent:: 
+Rongge Par, introuvabls, inncacessible, imprevisible...::
+Rien a Avoir,  merde j ai besoi gross gross GRoss Somm Argent::
+Semaine,, :; Drogue
+
+Putain J dois Aller Battire , Montex cette  MOntz,,
+  Ai Generre le TOus.
+
+
+
+
+
+
+
+
+
+
+
+///////////////////////
+
 linkr-monorepo/
 │
 ├── apps/                          # Frontend applications
