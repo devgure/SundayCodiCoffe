@@ -8,6 +8,7 @@ ddat BAse MOngodb Prisma ::
 
 
 2eme PArtie essai:: Merde .
+phases Multi plae Phases:: Memoire>>
 
 
 
