@@ -1,3 +1,19 @@
+ 
+ j dois decomposeer en PLusieur phases::::
+ FrontEnd.
+BAckEnd.
+Microservisce.
+Gateway <kong, BFf...
+ddat BAse MOngodb Prisma ::
+
+
+2eme PArtie essai:: Merde .
+
+
+
+
+
+
 
  PArt part :: part 1..
 ///////
